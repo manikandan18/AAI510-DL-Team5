@@ -13,6 +13,8 @@ The project will use a dataset consisting of musical scores from various compose
 
 The dataset contains the midi files of compositions from well-known classical composers like Bach, Beethoven, Chopin, and Mozart. The dataset should be labeled with the name of the composer for each score.
 
+Analysis is done on .mid files only for below composers.
+
 1-Bach
 2-Beethoven
 3-Chopin
